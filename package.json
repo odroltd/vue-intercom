@@ -13,7 +13,6 @@
     "unit": "karma start test/unit/karma.conf.js --watch",
     "test": "karma start test/unit/karma.conf.js --single-run",
     "lint": "eslint --ext .js src test/unit/index.js test/unit/specs",
-    "prepublish": "npm run lint && npm test && npm run build",
     "format": "prettier src/**/*.js test/**/*.js --write"
   },
   "devDependencies": {
