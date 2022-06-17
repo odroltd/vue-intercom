@@ -1,5 +1,3 @@
-# ⚠️ NOTICE: No Longer Maintained.
-
 # vue-intercom
 
 A reactive wrapper for [Intercom's](https://www.intercom.com/) [JavaScript API](https://developers.intercom.com/docs/intercom-javascript)
